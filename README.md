@@ -44,4 +44,4 @@ For more detail about each of these steps, see the project lesson [here](https:/
 
 ## URL
 
-[afa142f1113a747f28d679e74e5e74e3-83303980.us-east-1.elb.amazonaws.com]
+[afa142f1113a747f28d679e74e5e74e3-83303980.us-east-1.elb.amazonaws.com](afa142f1113a747f28d679e74e5e74e3-83303980.us-east-1.elb.amazonaws.com)
