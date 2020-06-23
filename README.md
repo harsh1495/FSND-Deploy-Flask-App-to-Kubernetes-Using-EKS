@@ -39,8 +39,9 @@ For more detail about each of these steps, see the project lesson [here](https:/
 
 ## Screenshots
 
-![Alt text](healthy.PNG?raw=true "Trivia Home Page")
-![Alt text](url.PNG?raw=true "Trivia Home Page")
+![Alt text](healthy.PNG?raw=true "Web API URL")
+![Alt text](url.PNG?raw=true "URL and Kubernetes CMD")
+![Alt text](success.PNG?raw=true "CodeBuild and CodePipeline Success")
 
 ## URL
 
